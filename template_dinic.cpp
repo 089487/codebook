@@ -1,21 +1,3 @@
-#include<bits/stdc++.h>
-#define Woody
-#define int long long 
-#define rep(n) for(int i=0;i<n;i++)
-#define mp make_pair
-#define eb push_back
-#define F first
-#define S second
-#define all(v) v.begin(),v.end()
-#define SETIO(s) ifstream cin(s+".in");ofstream cout(s+".out");
-#ifdef Woody
-#define quick ios::sync_with_stdio(0);cin.tie(0);
-#else
-#define quick
-#endif
-#define INF 1e16
-using namespace std;
-typedef pair<int,int> pii;
 int tt=1;
 int _id=0;
 int S;
