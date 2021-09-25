@@ -16,7 +16,7 @@
 #else
 #define quick
 #endif
-#define INF 1e12
+#define INF 1e18
 using namespace std;
 typedef pair<int,int> pii;
 signed main(){
